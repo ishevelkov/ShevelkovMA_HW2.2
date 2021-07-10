@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3316094B2698F97B00C34AFF /* RGBSliders.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RGBSliders.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3316094B2698F97B00C34AFF /* ShevelkovMA_HW2.2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ShevelkovMA_HW2.2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3316094E2698F97B00C34AFF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		331609502698F97B00C34AFF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		331609522698F97B00C34AFF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		3316094C2698F97B00C34AFF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3316094B2698F97B00C34AFF /* RGBSliders.app */,
+				3316094B2698F97B00C34AFF /* ShevelkovMA_HW2.2.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3316094A2698F97B00C34AFF /* RGBSliders */ = {
+		3316094A2698F97B00C34AFF /* ShevelkovMA_HW2.2 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3316095F2698F97D00C34AFF /* Build configuration list for PBXNativeTarget "RGBSliders" */;
+			buildConfigurationList = 3316095F2698F97D00C34AFF /* Build configuration list for PBXNativeTarget "ShevelkovMA_HW2.2" */;
 			buildPhases = (
 				331609472698F97B00C34AFF /* Sources */,
 				331609482698F97B00C34AFF /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = RGBSliders;
+			name = ShevelkovMA_HW2.2;
 			productName = RGBSliders;
-			productReference = 3316094B2698F97B00C34AFF /* RGBSliders.app */;
+			productReference = 3316094B2698F97B00C34AFF /* ShevelkovMA_HW2.2.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -101,7 +101,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 331609462698F97B00C34AFF /* Build configuration list for PBXProject "RGBSliders" */;
+			buildConfigurationList = 331609462698F97B00C34AFF /* Build configuration list for PBXProject "ShevelkovMA_HW2.2" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -114,7 +114,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3316094A2698F97B00C34AFF /* RGBSliders */,
+				3316094A2698F97B00C34AFF /* ShevelkovMA_HW2.2 */,
 			);
 		};
 /* End PBXProject section */
@@ -322,7 +322,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		331609462698F97B00C34AFF /* Build configuration list for PBXProject "RGBSliders" */ = {
+		331609462698F97B00C34AFF /* Build configuration list for PBXProject "ShevelkovMA_HW2.2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3316095D2698F97D00C34AFF /* Debug */,
@@ -331,7 +331,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3316095F2698F97D00C34AFF /* Build configuration list for PBXNativeTarget "RGBSliders" */ = {
+		3316095F2698F97D00C34AFF /* Build configuration list for PBXNativeTarget "ShevelkovMA_HW2.2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				331609602698F97D00C34AFF /* Debug */,
